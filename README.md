@@ -5,6 +5,10 @@ Synthetic data exploration of cognitive load, fatigue, and sleep patterns with r
 The scatter plot revealed an unexpected pattern: fatigue did not increase as cognitive load increased. Instead, the trendline showed a weak negative relationship. This aligns with published research indicating that momentary cognitive load and subjective fatigue often do not correlate strongly.
 This outcome highlights the importance of validating assumptions against actual data, even when working with synthetic datasets.
 
+## Visualization
+
+![Scatter Plot of Cognitive Load, Fatigue, and Sleep](PASTE-YOUR-URL-HERE)
+
 ## What I Learned
 - Visual expectations do not always match the data.
 - Real research shows cognitive load and fatigue often have weak or inconsistent relationships.
