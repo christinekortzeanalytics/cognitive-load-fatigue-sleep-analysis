@@ -7,8 +7,8 @@ This outcome highlights the importance of validating assumptions against actual 
 
 ## Visualization
 
-![Scatter Plot of Cognitive Load, Fatigue, and Sleep (https://github.com/christinekortzeanalytics/cognitive-load-fatigue-sleep-analysis/blob/main/TBI%20Data%20in%20Chart%20Form.png)
-
+![Scatter Plot of Cognitive Load, Fatigue, and Sleep 
+https://raw.githubusercontent.com/christinekortzeanalytics/cognitive-load-fatigue-sleep-analysis/refs/heads/main/TBI%20Data%20in%20Chart%20Form.png
 ## What I Learned
 - Visual expectations do not always match the data.
 - Real research shows cognitive load and fatigue often have weak or inconsistent relationships.
