@@ -8,6 +8,7 @@ This outcome highlights the importance of validating assumptions against actual 
 ## Visualization
 
 ![Scatter Plot](https://raw.githubusercontent.com/christinekortzeanalytics/cognitive-load-fatigue-sleep-analysis/main/TBI%20Data%20in%20Chart%20Form.png)
+**Insight:** Higher cognitive load tends to cluster with higher fatigue scores, especially when sleep drops below 7 hours.
 
 ## What I Learned
 - Visual expectations do not always match the data.
